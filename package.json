@@ -1,0 +1,31 @@
+{
+  "name": "order-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "nodemailer": "^6.10.1",
+    "react-router-dom": "^6.30.0",
+    "sqlite3": "^5.1.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayoubseghir2003/diazshop2025.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ayoubseghir2003/diazshop2025/issues"
+  },
+  "homepage": "https://github.com/ayoubseghir2003/diazshop2025#readme",
+  "description": ""
+}

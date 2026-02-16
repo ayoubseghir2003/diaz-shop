@@ -1,0 +1,274 @@
+[
+  {
+    "id": "1755782378484",
+    "client": "ikno",
+    "clientPhone": "056955",
+    "address": "36.74248,3.21908",
+    "items": [
+      {
+        "name": "Soupe Batata",
+        "price": 200
+      },
+      {
+        "name": "Escalope avec crème blanche",
+        "price": 250
+      }
+    ],
+    "total": 450,
+    "deliveryPrice": 71,
+    "status": "delivered",
+    "deliveryAgent": "0560575228",
+    "agentName": "ayoub",
+    "createdAt": "2025-08-21T13:19:38.484Z"
+  },
+  {
+    "id": "1755782504123",
+    "client": "seghir",
+    "clientPhone": "0560575228",
+    "address": "36.741242,3.173075",
+    "items": [
+      {
+        "name": "Chakhchoukha avec cuisse de poulet",
+        "price": 800
+      },
+      {
+        "name": "Mouskoutchou",
+        "price": 750
+      }
+    ],
+    "total": 1550,
+    "deliveryPrice": 154,
+    "status": "delivered",
+    "deliveryAgent": "0560575228",
+    "agentName": "ayoub",
+    "createdAt": "2025-08-21T13:21:44.123Z"
+  },
+  {
+    "id": "1755805023514",
+    "client": "imene ",
+    "clientPhone": "05623698558",
+    "address": "36.813508,2.979310",
+    "items": [
+      {
+        "name": "Bniwen",
+        "price": 100
+      },
+      {
+        "name": "Tcharak El-Aryan",
+        "price": 140
+      },
+      {
+        "name": "k3ik3at",
+        "price": 150
+      },
+      {
+        "name": "Sablés à la confiture",
+        "price": 45
+      }
+    ],
+    "total": 435,
+    "deliveryPrice": 673,
+    "status": "delivered",
+    "deliveryAgent": "0560575228",
+    "agentName": "ayoub",
+    "createdAt": "2025-08-21T19:37:03.515Z"
+  },
+  {
+    "id": "1755805639058",
+    "client": "imene ",
+    "clientPhone": "05623698558",
+    "address": "36.813508,2.979310",
+    "items": [
+      {
+        "name": "Bniwen",
+        "price": 100
+      },
+      {
+        "name": "Tcharak El-Aryan",
+        "price": 140
+      },
+      {
+        "name": "k3ik3at",
+        "price": 150
+      },
+      {
+        "name": "Sablés à la confiture",
+        "price": 45
+      },
+      {
+        "name": "Soupe basbas",
+        "price": 200
+      },
+      {
+        "name": "Escalope marinée",
+        "price": 150
+      }
+    ],
+    "total": 785,
+    "deliveryPrice": 673,
+    "status": "pending",
+    "deliveryAgent": null,
+    "agentName": null,
+    "createdAt": "2025-08-21T19:47:19.060Z"
+  },
+  {
+    "id": "1755805735764",
+    "client": "ayoub",
+    "clientPhone": "0560575228",
+    "address": "36.732438,2.993002",
+    "items": [
+      {
+        "name": "k3ik3at",
+        "price": 150
+      },
+      {
+        "name": "Soupe kabouya",
+        "price": 200
+      },
+      {
+        "name": "Pasta escalope sauce blanche",
+        "price": 600
+      },
+      {
+        "name": "Loubia",
+        "price": 200
+      },
+      {
+        "name": "Bghrir",
+        "price": 25
+      },
+      {
+        "name": "Makrot",
+        "price": 120
+      }
+    ],
+    "total": 1295,
+    "deliveryPrice": 625,
+    "status": "delivered",
+    "deliveryAgent": "056236486",
+    "agentName": "ayoub",
+    "createdAt": "2025-08-21T19:48:55.764Z"
+  },
+  {
+    "id": "1755868557683",
+    "client": "thtjtght",
+    "clientPhone": "74212233314",
+    "address": "36.74812,3.088102",
+    "items": [
+      {
+        "name": "Chatitha lham",
+        "price": 500
+      },
+      {
+        "name": "Escalope marinée",
+        "price": 150
+      },
+      {
+        "name": "Salade de riz",
+        "price": 200
+      }
+    ],
+    "total": 850,
+    "deliveryPrice": 365,
+    "status": "delivered",
+    "deliveryAgent": "052314341",
+    "agentName": "zaki",
+    "createdAt": "2025-08-22T13:15:57.684Z"
+  },
+  {
+    "id": "1759884433555",
+    "client": "ikram",
+    "clientPhone": "0535198198",
+    "address": "36.756838,2.978239",
+    "items": [
+      {
+        "name": "Rachta avec une cuisse de poulet",
+        "price": 800
+      },
+      {
+        "name": "Salade de riz",
+        "price": 200
+      }
+    ],
+    "total": 1000,
+    "deliveryPrice": 656,
+    "status": "pending",
+    "deliveryAgent": null,
+    "agentName": null,
+    "createdAt": "2025-10-08T00:47:13.555Z"
+  },
+  {
+    "id": "1771268511465",
+    "client": "ayoub",
+    "clientPhone": "0560575228",
+    "address": "36.740195,3.094797",
+    "items": [
+      {
+        "name": "Soupe kabouya",
+        "price": 200
+      },
+      {
+        "name": "Chatitha lham",
+        "price": 500
+      },
+      {
+        "name": "Salade Verte",
+        "price": 150
+      }
+    ],
+    "total": 850,
+    "deliveryPrice": 353,
+    "status": "pending",
+    "deliveryAgent": null,
+    "agentName": null,
+    "createdAt": "2026-02-16T19:01:51.465Z"
+  },
+  {
+    "id": "1771274729589",
+    "client": "ayoub",
+    "clientPhone": "0560575228",
+    "address": "36.749467,3.248091",
+    "items": [
+      {
+        "name": "Boîte de frites",
+        "price": 150
+      },
+      {
+        "name": "Pasta escalope sauce blanche",
+        "price": 600
+      }
+    ],
+    "total": 750,
+    "deliveryPrice": 81,
+    "status": "pending",
+    "deliveryAgent": null,
+    "agentName": null,
+    "createdAt": "2026-02-16T20:45:29.590Z"
+  },
+  {
+    "id": "1771281342759",
+    "client": "ayoub seghir",
+    "clientPhone": "0560575228",
+    "address": "36.259215,2.769327",
+    "items": [
+      {
+        "name": "Soupe basbas",
+        "price": 200
+      },
+      {
+        "name": "Chatitha lham",
+        "price": 500
+      },
+      {
+        "name": "Pasta escalope sauce blanche",
+        "price": 600
+      }
+    ],
+    "total": 1300,
+    "deliveryPrice": 2077,
+    "status": "pending",
+    "deliveryAgent": null,
+    "agentName": null,
+    "createdAt": "2026-02-16T22:35:42.759Z"
+  }
+]
